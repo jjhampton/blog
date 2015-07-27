@@ -1,0 +1,28 @@
+# Site settings
+title: John Hampton | Web Developer
+email: john@johnhampton.net
+description:  Honest optimist.  Riding the wave, one line of code at a time.  Seeking to transform imagination into reality.
+baseurl: "/blog" # the subpath of your site, e.g. /blog/
+url: "http://jjhampton.github.io" # the base hostname & protocol for your site
+twitter_username: johnjhampton
+github_username:  jjhampton
+
+# Build settings
+markdown: kramdown
+permalink: /:title
+
+# Default settings
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: "posts" # previously `post` in Jekyll 2.2.
+    values:
+      author: John Hampton
+      layout: "post"
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: "pages" # previously `post` in Jekyll 2.2.
+    values:
+      layout: "page"
