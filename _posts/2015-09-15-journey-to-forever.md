@@ -8,7 +8,7 @@ To answer that, I'm excited that today marked my second day of a three-month dev
 
 Never.  The journey will never end.  I had a few discussions with some students during code school and occasionally the topic of "once this is over" would come up with some type of reference to *finishing* or *completing*.  Would I be relieved?  Exhale? Be glad to complete the course?  Happy with my certificate of completion? For me, thinking about my experience at The Iron Yard in that way just doesn't make sense.  No type of learning is ever finished.  One way or another, for better or worse, we're all life-long learners.
 
-Because code school was over, does that somehow mean that there is now any less amount of syntax to learn, design patterns to rehearse, or new libraries or frameworks to tinker with? No.  The tech stack keeps growing, every day.  As do the creative ways in which we can apply them to the myriad of possibilities.  The Internet may not save the world, but it can damn sure help out in plenty of ways if it's applied in the right ways.
+Because code school was over, does that somehow mean that there is now any less amount of syntax to learn, design patterns to rehearse, or new libraries or frameworks to tinker with? No.  The tech stack keeps growing, every day.  As do the creative ways in which we can apply them to the myriad of problems people keep encountering.  The Internet may not save the world, but it can damn sure help out in plenty of ways if it's applied in the right ways.
 
 Code-specifically, have I in any way *mastered* what I learned at code school?  No way.  Beginner's mindset for life, no matter what I've learned.  The journey continues.   
 
